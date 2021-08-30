@@ -1,0 +1,14 @@
+{
+    "name": "macos-open-file-dialog",
+    "version": "1.0.0",
+    "description": "A utility to show MacOS's file picker",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "url": "https://github.com/ZaninAndrea/macos-open-file-dialog"
+    },
+    "author": "ZaninAndrea",
+    "license": "MIT"
+}

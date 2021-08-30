@@ -64,8 +64,4 @@ end'`)
     return stdout.slice(0, stdout.length - 1)
 }
 
-openMultipleFiles("Apri file").then((path) => {
-    console.log("Path: " + path + " - end")
-})
-
 module.exports = { openFile, openFolder }

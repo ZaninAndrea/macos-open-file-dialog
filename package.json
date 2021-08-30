@@ -1,6 +1,6 @@
 {
     "name": "macos-open-file-dialog",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A utility to show MacOS's file picker",
     "main": "index.js",
     "scripts": {
